@@ -301,33 +301,3 @@ i18nDir = "./data/i18n"
 [languages.en.params]
 description = "Production-Grade Container Orchestration"
 
-[languages.de]
-title = "Kubernetes"
-languageName = "Deutsch (German)"
-weight = 5
-contentDir = "content/de"
-languagedirection = "ltr"
-
-[languages.de.params]
-time_format_blog = "02.01.2006"
-# A list of language codes to look for untranslated content, ordered from left to right.
-language_alternatives = ["en"]
-description = "Produktionsreife Container-Orchestrierung"
-languageNameLatinScript = "Deutsch"
-
-
-[languages.uk]
-title = "Kubernetes"
-languageName = "Українська (Ukrainian)"
-weight = 15
-contentDir = "content/uk"
-languagedirection = "ltr"
-
-[languages.uk.params]
-time_format_blog = "02.01.2006"
-# A list of language codes to look for untranslated content, ordered from left to right.
-language_alternatives = ["en"]
-description = "Довершена система оркестрації контейнерів"
-languageNameLatinScript = "Ukrainian"
-
-
